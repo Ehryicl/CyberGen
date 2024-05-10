@@ -287,7 +287,7 @@ Choice 3: Get All Bot Invites
 Choice 4: Get All Tokens Of Bots In Applications
 Choice 5: Enable Intents On All Bots
 Choice 6: Verify All Bots
-Credits: Made by Ninovium\n''')
+Credits: Made by Ellisians\n''')
         choice = input(f'Choice: ')
 
         if choice == "1":
